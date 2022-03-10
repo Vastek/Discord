@@ -1,0 +1,7 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "11.4.2",
+    "dblapi.js": "2.3.0"
+  }
+}

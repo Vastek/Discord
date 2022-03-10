@@ -1,0 +1,13 @@
+Startup:
+  - Setup config
+  - Add some commands
+  - Have fun!
+
+
+Editing config; Check out ./config.js, there're comments on what to do there!
+
+Edit the events if you'd like.
+
+Adding a command! Check out /commands/ping.js for a detailed example. But depending on how you format your exports you may have to change the message.js event. Though if you use the template how it is right now then no changing is needed :wink:
+
+Discord Bot List: https://discordbots.org | check out the bottom of /events/ready.js
